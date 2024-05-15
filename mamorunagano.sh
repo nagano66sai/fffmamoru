@@ -6,4 +6,4 @@ echo  $((12+9))
 echo  "hello  asia"
 echo  $((6+88))
 echo   $((4*98))
-echo   $(123-23))
+echo   $((123-23))

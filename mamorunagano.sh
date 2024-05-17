@@ -10,3 +10,4 @@ echo   $((123-23))
 echo   "hello     europe!!!"
 echo   "hello   yokohama   nada"
 echo    "hell   america!!"
+echo    "we   are    students"
